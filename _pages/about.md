@@ -12,7 +12,7 @@ redirect_from:
 
 I have created this website as a template to demonstrate how students can easily create portfolios to showcase work for AP CSP. Better yet, students can create QR codes that link to their portfolio pages. Display your students' QR codes in your classroom for easy access. Try it out by holding your phone's camera up to the QR code below:
 
-![Schenk QR Code](/images/frame.png)
+![Schenk QR Code](/images/eneaQR.png)
 
 <b> Steps </b>
 1. <b>Fork</b> [this repository](https://github.com/CodeCSMB/codecsmb.github.io)  to create the template for your portfolio by clicking the "fork" button in the top right.
